@@ -1,0 +1,60 @@
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\bin\SistemaUre.dll
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\obj\Debug\SistemaUre.csprojResolveAssemblyReference.cache
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\ERNY\Desktop\trabajo practicas\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+C:\Users\ERNY\Desktop\trabajo practicas\SistemaUre\SistemaUre\bin\SistemaUre.dll
+C:\Users\ERNY\Desktop\trabajo practicas\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+C:\Users\ERNY\Desktop\trabajo practicas\SistemaUre\SistemaUre\obj\Debug\SistemaUre.csprojResolveAssemblyReference.cache
+C:\Users\ERNY\Desktop\trabajo practicas\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+C:\Users\ERNY\Desktop\trabajo practicas\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\NUEVO PROYECTO URE\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\NUEVO PROYECTO URE\SistemaUre\SistemaUre\bin\SistemaUre.dll
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\NUEVO PROYECTO URE\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\NUEVO PROYECTO URE\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\NUEVO PROYECTO URE\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\CRAD-PC\Documents\Visual Studio 2013\Projects\NUEVO PROYECTO URE\SistemaUre\SistemaUre\obj\Debug\SistemaUre.csprojResolveAssemblyReference.cache
+F:\Erny se la come doblada\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+F:\Erny se la come doblada\SistemaUre\SistemaUre\bin\SistemaUre.dll
+F:\Erny se la come doblada\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+F:\Erny se la come doblada\SistemaUre\SistemaUre\obj\Debug\SistemaUre.csprojResolveAssemblyReference.cache
+F:\Erny se la come doblada\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+F:\Erny se la come doblada\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\kocky\Desktop\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+C:\Users\kocky\Desktop\SistemaUre\SistemaUre\bin\SistemaUre.dll
+C:\Users\kocky\Desktop\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+C:\Users\kocky\Desktop\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+C:\Users\kocky\Desktop\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\ROUS\Music\URE ultimo 26 01 18\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+C:\Users\ROUS\Music\URE ultimo 26 01 18\SistemaUre\SistemaUre\bin\SistemaUre.dll
+C:\Users\ROUS\Music\URE ultimo 26 01 18\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+C:\Users\ROUS\Music\URE ultimo 26 01 18\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+C:\Users\ROUS\Music\URE ultimo 26 01 18\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\ROUS\Music\URE ultimo 26 01 18\SistemaUre\SistemaUre\obj\Debug\SistemaUre.csprojResolveAssemblyReference.cache
+C:\Users\ROUS\Music\URE ultimo 01 febr 18\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+C:\Users\ROUS\Music\URE ultimo 01 febr 18\SistemaUre\SistemaUre\bin\SistemaUre.dll
+C:\Users\ROUS\Music\URE ultimo 01 febr 18\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+C:\Users\ROUS\Music\URE ultimo 01 febr 18\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+C:\Users\ROUS\Music\URE ultimo 01 febr 18\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\ROUS\Music\URE ultimo 01 febr 18\SistemaUre\SistemaUre\obj\Debug\SistemaUre.csprojResolveAssemblyReference.cache
+C:\Users\ROUS\Music\URE ultimo 06 febr 18\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+C:\Users\ROUS\Music\URE ultimo 06 febr 18\SistemaUre\SistemaUre\bin\SistemaUre.dll
+C:\Users\ROUS\Music\URE ultimo 06 febr 18\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+C:\Users\ROUS\Music\URE ultimo 06 febr 18\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+C:\Users\ROUS\Music\URE ultimo 06 febr 18\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\ROUS\Music\URE ultimo 06 febr 18\SistemaUre\SistemaUre\obj\Debug\SistemaUre.csprojResolveAssemblyReference.cache
+C:\Users\ERNY\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+C:\Users\ERNY\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\bin\SistemaUre.dll
+C:\Users\ERNY\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+C:\Users\ERNY\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+C:\Users\ERNY\Documents\Visual Studio 2013\Projects\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\ROUS\Music\casi final 17 de enero - URE\SistemaUre\SistemaUre\obj\Debug\RdlCompile.cache
+C:\Users\ROUS\Music\casi final 17 de enero - URE\SistemaUre\SistemaUre\obj\Debug\RdlCompile.compiled
+C:\Users\ROUS\Music\casi final 17 de enero - URE\SistemaUre\SistemaUre\bin\SistemaUre.dll.config
+C:\Users\ROUS\Music\casi final 17 de enero - URE\SistemaUre\SistemaUre\bin\SistemaUre.dll
+C:\Users\ROUS\Music\casi final 17 de enero - URE\SistemaUre\SistemaUre\bin\SistemaUre.pdb
+C:\Users\ROUS\Music\casi final 17 de enero - URE\SistemaUre\SistemaUre\obj\Debug\SistemaUre.dll
+C:\Users\ROUS\Music\casi final 17 de enero - URE\SistemaUre\SistemaUre\obj\Debug\SistemaUre.pdb
+C:\Users\ROUS\Music\casi final 17 de enero - URE\SistemaUre\SistemaUre\obj\Debug\SistemaUre.csprojResolveAssemblyReference.cache
